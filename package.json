@@ -1,0 +1,22 @@
+{
+  "name": "config.js",
+  "version": "1.0.0",
+  "description": "A simple script to pull config information from a variety of sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpyle/config.js.git"
+  },
+  "author": "Thomas Pyle",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tpyle/config.js/issues"
+  },
+  "homepage": "https://github.com/tpyle/config.js#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
